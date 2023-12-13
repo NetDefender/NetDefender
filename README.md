@@ -11,6 +11,19 @@ I like typescript, javascript and multiple ecosystems<br/>
 - 💬 Ask me anything about dotnet or database performance
 - 📫 How to reach me: send and email to danielsith@hotmail.com
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NetDefender&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetDefender&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🗒 Recent Blog Posts
+
+- [Interface Proxy](https://dev.to/netdefender/interface-proxy-5djm)
+- [SIMD aggregate performance](https://dev.to/netdefender/simd-aggregate-performance-222f)
+
+<br/>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
