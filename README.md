@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a full stack senior software developer and architect that loves performance tuning in any context
-I have worked with various tech stacks mainly with dotnet, aspnet/core, database sql and nosql providers and javascript in distributed applications.
-I have worked with javascript
-I have worked too with devops tasks with jenkins and gitlab.
+I'm a full stack senior software developer and architect that loves performance tuning in any context<br/>
+I have worked with various tech stacks mainly with dotnet, aspnet/core, database sql and nosql providers in distributed applications.<br/>
+I love devops tasks in various contexts like jenkins, github actions and gitlab<br/>
+I like typescript, javascript and multiple ecosystems<br/>
 
 - 🔭 I’m currently working on a tool that updates databases of multiple providers (Sql Server, MySql/MariaDb, PostgreSql) concurrently called [Upgradier](https://github.com/NetDefender/Upgradier) implemented in C#
 - 🌱 I’m currently learning Go language
