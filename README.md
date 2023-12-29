@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm a full stack senior software developer and architect that loves performance tuning in any context<br/>
 I have worked with various tech stacks mainly with dotnet, aspnet/core, database sql and nosql providers in distributed applications.<br/>
