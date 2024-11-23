@@ -8,7 +8,6 @@ I like typescript, javascript and multiple ecosystems<br/>
 - 🔭 I’m currently working on a tool that updates databases of multiple providers (Sql Server, MySql/MariaDb, PostgreSql) concurrently called [Upgradier](https://github.com/NetDefender/Upgradier) implemented in C#
 - 👯 I’m looking to collaborate on open source projects in dotnet and javascript
 - 💬 Ask me anything about dotnet or database performance
-- 📫 How to reach me: send and email to danielsith@hotmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NetDefender&theme=dark&background=000000)](https://git.io/streak-stats)
 
